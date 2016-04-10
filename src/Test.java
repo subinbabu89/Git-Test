@@ -15,7 +15,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("hHaha");
 		System.out.println("2nd commit");
-		System.out.println("Sahana is mean");
+		System.out.println("Sahana is nt mean");
 	}
 
 }
