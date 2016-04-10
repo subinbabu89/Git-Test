@@ -15,11 +15,7 @@ public class Test {
 		System.out.println("hHaha");
 
 //kjhkh
-		System.out.println("kdjfkdfj");
-		System.out.println("2nd commit");
-		
-		System.out.println("MUhahahahah");
-		
+		System.out.println("kdfjdfjdfdkdfjddkjfdkfjdfjdjdfd");
 		//skjdfksdjhf
 		
 		System.out.println("fjdkjdkf");
