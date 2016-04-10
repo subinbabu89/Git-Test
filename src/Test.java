@@ -15,6 +15,7 @@ public class Test {
 		System.out.println("hHaha");
 		System.out.println("kdjfkdfj");
 		System.out.println("Mogambo");
+		System.out.println("somthing");
 	}
 
 }
