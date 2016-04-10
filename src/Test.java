@@ -17,8 +17,6 @@ public class Test {
 
 		System.out.println("kdjfkdfj");
 		System.out.println("2nd commit");
-		System.out.println("Sahana is nt mean kjkfjfkjffl");
-		System.out.println("the above line is not true");
 		
 		System.out.println("MUhahahahah");
 		
